@@ -43,7 +43,7 @@ ollama pull gpt-oss:20b
 
 1. Open the AI extension panel in VS Code.
 2. Go to the **Model Selector** dropdown at the bottom.
-3. Click on **"Add Models"** or **"Other Models"**.
+3. Click on **"Other Models"**, then **"Add Models"**.
 4. From the list of providers, select **Ollama**.
 5. The extension should automatically detect the `gpt-oss:20b` model running on your machine.
 
